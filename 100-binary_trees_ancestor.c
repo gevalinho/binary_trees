@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * binary_trees_ancestor - function that checks an ancestor
  * @first: First node
